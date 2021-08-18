@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-size: 62.5%;
+}
+
+.form_main{
+    position: relative;
+    top: 20rem;
+    left: 50rem;
+    padding-left: 3rem;
+    margin-top: ;
+    background: linear-gradient(#e66465, #9198e5);
+    background-position: right, left;
+}
