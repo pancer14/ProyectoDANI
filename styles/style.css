@@ -10,10 +10,14 @@ body{
 
 .form_main{
     position: relative;
-    top: 20rem;
+    width: 10%;
     left: 50rem;
-    padding-left: 3rem;
-    margin-top: ;
-    background: linear-gradient(#e66465, #9198e5);
-    background-position: right, left;
+    top: 20rem; 
+    border: 0.2rem solid grey ;
+    
+}
+.bottom{
+   position: sticky; 
+    left: 10rem;
+
 }
