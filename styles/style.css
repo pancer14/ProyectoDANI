@@ -8,16 +8,3 @@ body{
     font-size: 62.5%;
 }
 
-.form_main{
-    position: relative;
-    width: 10%;
-    left: 50rem;
-    top: 20rem; 
-    border: 0.2rem solid grey ;
-    
-}
-.bottom{
-   position: sticky; 
-    left: 10rem;
-
-}
